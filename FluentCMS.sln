@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8FA9D415-6B5C-4717-818A-FF7901E39419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentCMS", "src\FluentCMS\FluentCMS.csproj", "{77BA5AF2-EB73-4707-AE21-070ACF7511F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{D25C7B40-7AD6-42AC-9A6E-87812E3BC1D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BA5AF2-EB73-4707-AE21-070ACF7511F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BA5AF2-EB73-4707-AE21-070ACF7511F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BA5AF2-EB73-4707-AE21-070ACF7511F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BA5AF2-EB73-4707-AE21-070ACF7511F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{77BA5AF2-EB73-4707-AE21-070ACF7511F3} = {8FA9D415-6B5C-4717-818A-FF7901E39419}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EADA040-EC53-44C8-92F5-F913A4E67D3D}
+	EndGlobalSection
+EndGlobal
